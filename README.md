@@ -46,4 +46,4 @@ In this app, you will be creating a “choose your own adventure” game similar
         )      
 ```
 
-<img src="./Destini/Documentation/destini.gif">
+<img src="./Documentation/destini.gif">
